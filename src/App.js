@@ -15,8 +15,6 @@ function App() {
             {/* <Navbar /> */}
             {/* <SearchSideBar /> */}
             <CollegePage />
-
-            <div>kdjf;alks dj;flaksjd f;</div>
         </>
     );
 }
